@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Photo Capturer</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="button_photo">Photo</string>
+
+    <string name="dialog_content_text">Enter file-s name</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="dialog_title">Save image to internal storage</string>
+</resources>
